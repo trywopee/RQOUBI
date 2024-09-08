@@ -8,7 +8,7 @@ on:
         type: choice
         description: "App version to be deployed"
         required: false
-        default: "demo-app-v2"
+        default: "demo-app-v1"
         options:
         - demo-app-v1
         - demo-app-v2
